@@ -1,3 +1,3 @@
-# QuantQuan
+Focusing on fully automated trading system, codename `NAÏVE`.
 
-Focusing on fully automated trading system, codename `NAIVE`.
+More coming soon...
